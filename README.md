@@ -16,4 +16,4 @@
 
 ## Ссылка на проект
 
-https://github.com/asiris435/movies-explorer-api
+https://api.movies-explorer66.kaa.nomoredomainsicu.ru
